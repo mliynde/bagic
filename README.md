@@ -7,6 +7,19 @@
 - 制作：[draw.io](https://app.diagrams.net/)
 - 覆盖：<https://daxigua-tools.liyupi.com/>
 
+原地址：<https://lyer.xyz/bigac>
+
+~~新地址：<https://bagic.lyer.xyz>~~
+
+- 上线时间未定
+
 #### 2021/02/10
 
-颜色还得改……
+各种 `*LE` 的颜色还得改……
+
+换了下源码，感谢[@liyupi](https://github.com/liyupi)
+
+#### 2021/02/11
+
+修改网址……
+
