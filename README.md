@@ -7,11 +7,13 @@
 - 制作：[draw.io](https://app.diagrams.net/)
 - 覆盖：<https://daxigua-tools.liyupi.com/>
 
-原地址：<https://lyer.xyz/bigac>
+~~原地址：<https://lyer.xyz/bigac>~~
 
-~~新地址：<https://bagic.lyer.xyz>~~
+- 于2021/02/11废弃
 
-- 上线时间未定
+新地址：<https://bagic.lyer.xyz>
+
+- 上线辣！
 
 ### 更新日志
 
@@ -24,3 +26,7 @@
 #### 2021/02/11
 
 分别把 PC（1024）和 AC（2048）换成了 AC（1024）和 Luogu（2048）。
+
+换地址。
+
+同时，做了导航页，以后把原来的 ads 改成返回主页面……
